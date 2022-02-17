@@ -18,3 +18,4 @@ I am a full-stack software engineer with experience in building full-stack web a
 Additional Skills:  Ruby, Javascript, SQL, HTML5, CSS,  Webpack, MongoDB, AWS
 Other than coding I love sketching and love to play tennis with my husband.
 Feel free to contact me at  kikihrd20@gmail.com.
+
