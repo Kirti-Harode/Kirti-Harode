@@ -108,7 +108,7 @@ Check out some of my personal projects:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kikihrd20@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/kirti-harode-02b35b1b5)
-[![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/profile/edit/overview)
+[![AngelList](https://img.shields.io/badge/AngelList-%D14836.svg?style=for-the-badge&logo=AngelList&logoColor=white)](https://angel.co/profile/edit/overview)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=Portfolio&logoColor=white)](https://kirtibala-harode.netlify.app/)
 
 <!--
