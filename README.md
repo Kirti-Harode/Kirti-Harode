@@ -1,4 +1,4 @@
-### Hi there, I'm Kirtibala! 👋
+### Hi there, I'm Kirti! 👋
 
 I am a full-stack software engineer with experience in building full-stack web applications implementing technologies like Javascript, React, Redux, PostgreSQL, MongoDB, Ruby on Rails, Express, Mongoose. I am extremly passionate about solving problems and constanty learning new things!
 
