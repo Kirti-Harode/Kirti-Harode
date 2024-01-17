@@ -1,6 +1,6 @@
 ### Hi there, I'm Kirti! 👋
 
-I am a full-stack software engineer with experience in building full-stack web applications implementing technologies like Javascript, React, Redux, PostgreSQL, MongoDB, Ruby on Rails, Express, Mongoose. I am extremely passionate about solving problems and constantly learning new things!
+I am a Passionate Full-Stack Software Engineer with a year of experience in building full-stack web applications implementing technologies like Javascript, React, Redux, PostgreSQL, MongoDB, Ruby on Rails, Express, Mongoose. I am extremely passionate about solving problems and constantly learning new things!
 
 Other than coding, I enjoy sketching ✍🏼, traveling🏞, Hiking⛰, and love to play tennis🏸 with my husband.
 
