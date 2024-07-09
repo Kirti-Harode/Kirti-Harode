@@ -7,9 +7,9 @@ My most recent projects involve making a professional networking clone website o
 
 Other than coding, I enjoy sketching ✍🏼, traveling🏞, Hiking⛰, and love to play tennis🏸 with my husband.
 
-Experience: 
-## Software Engineer: Full-Stack / Front-End Developer
-## Publica by Integral ad Science, San Francisco, California, USA                                                                                            Aug 2022 - Aug 2023
+### Experience: 
+#### Software Engineer: Full-Stack / Front-End Developer
+#### Publica by Integral ad Science, San Francisco, California, USA                                                                                            Aug 2022 - Aug 2023
 - Full-cycle Application Development:  Engaged in all phases of application development, from technical design, test case formulation, updating database, unit testing, debugging, peer-review, deployment, post-deploy support, and documentation. Resulting in a 40% reduction in bug report. Demonstrating excellent problem-solving and project management skills.
 - Front-end Feature Development: Utilized React hooks for state management and lifecycle methods, collaborating with teams to enhance user experience. Worked closely with the UI/UX team, achieving a 30% increase in user engagement.
 - Database Development and Maintenance: Utilized Gorm and SQL to construct and sustain databases, ensuring optimal performance and data integrity in line with project requirements.
@@ -17,7 +17,7 @@ Experience:
 - On-Call Engineer for Real-Time Issue Resolution: Swiftly addressing and resolving real-time issues to ensure system stability and functionality, showcasing strong analytical and troubleshooting abilities. Successfully reduced average issue resolution time by 50%, ensuring 99.9% system uptime.
 - Team Collaboration: Worked effectively within cross-functional teams, enhancing communication and teamwork.
 
-Check out some of my personal projects:
+### Check out some of my personal projects:
 
 <details>
  <summary> ConnectIn 🎓</summary>
