@@ -1,6 +1,9 @@
 ### Hi there, I'm Kirti! 👋
 
-I am a Passionate Full-Stack Software Engineer with a year of experience in building full-stack web applications implementing technologies like Javascript, React, Redux, PostgreSQL, MongoDB, Ruby on Rails, Express, Mongoose. I am extremely passionate about solving problems and constantly learning new things!
+Skilled Full Stack and Front-End Developer living in Bengaluru. Dedicated to creating efficient, user-friendly applications and driving innovative solutions within dynamic teams. Continuously acquiring new skills and staying updated with the latest technologies to improve and innovate. Strong communicator with a proven ability to work effectively in cross-functional teams.
+Proficient in JavaScript, TypeScript, React, Redux, HTML, CSS, AWS, GitHub, Ruby on Rails, SQL, and PostgreSQL. 
+
+My most recent projects involve making a professional networking clone website of LinkedIn and the development of a 2D game in JavaScript using Canvas API. 
 
 Other than coding, I enjoy sketching ✍🏼, traveling🏞, Hiking⛰, and love to play tennis🏸 with my husband.
 
